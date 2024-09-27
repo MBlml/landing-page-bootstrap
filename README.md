@@ -1,4 +1,4 @@
-Visit on: https://main--mbdev-landing-page.netlify.app/
+Visit my site on: https://main--mbdev-landing-page.netlify.app/
 
 ![imagen](https://github.com/user-attachments/assets/9a845ac3-6126-4dbe-844a-576add596b44)
 ![imagen](https://github.com/user-attachments/assets/0f9e7b6d-0bdf-4d97-ab43-2943004edbbe)
